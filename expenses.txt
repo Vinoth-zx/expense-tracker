@@ -1,2 +1,3 @@
-pizza,300,food
-pizza,200,food
+1,chicken,500,Food
+2,chicken,400,Food
+3,movie,400,movie
